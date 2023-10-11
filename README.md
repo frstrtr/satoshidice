@@ -1,0 +1,2 @@
+# satoshidice
+satoshidice simulator
